@@ -2,6 +2,9 @@
 
 To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
 
+instructions: - First you new to know if you have docker in you system, print docker-v
+and docker-compose -v in your terminal - If you have docker, then run docker-compose up, and thats all
+
 Please find more info about each part in the relevant Readme file ([frontend](frontend/readme.md) and [backend](backend/README.md)).
 
 ## Development
